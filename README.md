@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # ReactAssignment
 =======
-# BrightPath React Project
+# INSIDE LIFE React Project
 
 A Vite + React project demonstrating a student profile, inline-styled navigation bar, reusable user cards, and a team members page.
 
